@@ -1,0 +1,18 @@
+Q1. Design a webpage to describe your university. The webpage should have properly aligned paragraphs to show textual information and images wherever required.
+
+Q3. Create a webpage that should have a menu to show different tourist places in dehradun and use different background and foreground colors along with more such properties.
+18-01-2024
+
+Q4 - HTML forms using different form elements
+    1. Create a login page using different form elements
+    2. Create a HTML form for a student for course registeration which should have following fields
+        Student Name (textbox)
+        Age (textbox with numbers only)
+        DOB (Calender)
+        Course (Dropdown)
+        Submit (Button)
+        3. Form for selecting sports in your university, form should have fields like name, password, address, select game, gender, Age.
+
+Q5 - Use of inline internal and external style sheets, and incorporating styles in html document -
+    1. Use inline style sheets and Create a webpage
+    2. Create a css based sticky footer.

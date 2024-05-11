@@ -1,14 +1,14 @@
 Q1. Design a webpage to describe your university. The webpage should have properly aligned paragraphs to show textual information and images wherever required.
 
 Q2. Create your own timetable using HTML & CSS which should display classes.
-   
-Q3. Create a webpage that should have a menu to show different tourist places in dehradun and use different background and foreground colors along with more such properties. 
 
-Q4. HTML forms using different form elements  
+Q3. Create a webpage that should have a menu to show different tourist places in dehradun and use different background and foreground colors along with more such properties.
+
+Q4. HTML forms using different form elements
     1. Create a login page using different form elements
-    2. Create a HTML form for a student for course registeration which should have following fields  
-        Student Name (textbox)  
-        Age (textbox with numbers only) 
+    2. Create a HTML form for a student for course registeration which should have following fields
+        Student Name (textbox)
+        Age (textbox with numbers only)
         DOB (Calender)
         Course (Dropdown)
         Submit (Button)
@@ -20,7 +20,7 @@ Q5. Use of inline internal and external style sheets, and incorporating styles i
     3. Using HTML and CSS Create a custom hover and focus effect for navigation items using CSS transformations.
     4. Using HTML and CSS Create a zoom in and out effect / animation.
 
-Q6. Responsive design with Media Queries - 
+Q6. Responsive design with Media Queries -
     1. Add a CSS Media Query and appropriate styles so that the web page looks similar even when resized to smaller widths.
         the sidebar should be hidden.
         body should have no padding.
@@ -55,3 +55,8 @@ Q9. Using Angular JS -> implement input validation
         a - Display table
         b - display table content with order by filter
         c - Display table with even and odd entries
+
+Q10. Node JS Basic Excercises
+    1. Create a simple Hello World server using Node JS.
+    2. Write a Node JS Program to replace 2 or more occourances of a letter with a single letter in a given string using regular expression. (abba -> aba)
+    3. Write a Node JS code to iterate over a given array. (Basically printing the elements of array)

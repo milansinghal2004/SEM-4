@@ -16,7 +16,7 @@ Q4. HTML forms using different form elements
 
 Q5. Use of inline internal and external style sheets, and incorporating styles in html document -
     1. Use inline style sheets and Create a webpage
-    2. Create a CSS-based sticky footer.
+    2. Create a CSS-based sticky footer. 
     3. Using HTML and CSS Create a custom hover and focus effect for navigation items using CSS transformations.
     4. Using HTML and CSS Create a zoom in and out effect/animation.
 

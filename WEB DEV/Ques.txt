@@ -55,8 +55,3 @@ Q9. Using Angular JS -> implement input validation
         a - Display table
         b - display table content with order by filter
         c - Display table with even and odd entries
-
-Q10. Node JS Basic Exercises
-    1. Create a simple Hello World server using Node JS.
-    2. Write a Node JS Program to replace 2 or more occurrences of a letter with a single letter in a given string using regular expression. (abba -> aba)
-    3. Write a Node JS code to iterate over a given array. (Basically printing the elements of the array)

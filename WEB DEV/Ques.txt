@@ -1,4 +1,4 @@
-Q1. Design a webpage to describe your university. The webpage should have properly aligned paragraphs to show textual information and images wherever required.
+Q1. Design a webpage to describe your university. The webpage should have properly aligned paragraphs to show textual information and images wherever required. 
 
 Q2. Create your own timetable using HTML & CSS which should display classes.   
 

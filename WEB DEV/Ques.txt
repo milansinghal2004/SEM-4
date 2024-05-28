@@ -4,7 +4,7 @@ Q2. Create your own timetable using HTML & CSS which should display classes.
  
 Q3. Could you create a webpage that should have a menu to show different tourist places in Dehradun and use different background and foreground colors along with more such properties?  
   
-Q4. HTML forms using different form elements 
+Q4. HTML forms using different form elements  
     1. Create a login page using different form elements
     2. Create an HTML form for a student for course registration which should have the following fields  
         Student Name (textbox)

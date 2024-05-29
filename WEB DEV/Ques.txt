@@ -10,7 +10,7 @@ Q4. HTML forms using different form elements
         Student Name (textbox)
         Age (textbox with numbers only) 
         DOB (Calendar)
-        Course (Dropdown)
+        Course (Dropdown) 
         Submit (Button)
     3. The form for selecting sports in your university, the form should have fields like name, password, address, select game, gender, Age.
 

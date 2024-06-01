@@ -1,38 +1,38 @@
-Q1. Design a webpage to describe your university. The webpage should have properly aligned paragraphs to show textual information and images wherever required. 
+Q1. Design a webpage to describe your university. The webpage should have properly aligned paragraphs to show textual information and images wherever required.
 
-Q2. Create your own timetable using HTML & CSS which should display classes.   
- 
-Q3. Could you create a webpage that should have a menu to show different tourist places in Dehradun and use different background and foreground colors along with more such properties?  
-  
-Q4. HTML forms using different form elements  
-    1. Create a login page using different form elements 
-    2. Create an HTML form for a student for course registration which should have the following fields  
+Q2. Create your own timetable using HTML & CSS which should display classes.
+
+Q3. Create a webpage that should have a menu to show different tourist places in dehradun and use different background and foreground colors along with more such properties.
+
+Q4. HTML forms using different form elements
+    1. Create a login page using different form elements
+    2. Create a HTML form for a student for course registeration which should have following fields
         Student Name (textbox)
-        Age (textbox with numbers only) 
-        DOB (Calendar)
-        Course (Dropdown) 
+        Age (textbox with numbers only)
+        DOB (Calender)
+        Course (Dropdown)
         Submit (Button)
-    3. The form for selecting sports in your university, the form should have fields like name, password, address, select game, gender, Age.
+    3. Form for selecting sports in your university, form should have fields like name, password, address, select game, gender, Age.
 
 Q5. Use of inline internal and external style sheets, and incorporating styles in html document -
     1. Use inline style sheets and Create a webpage
-    2. Create a CSS-based sticky footer. 
+    2. Create a css based sticky footer.
     3. Using HTML and CSS Create a custom hover and focus effect for navigation items using CSS transformations.
-    4. Using HTML and CSS Create a zoom in and out effect/animation.
+    4. Using HTML and CSS Create a zoom in and out effect / animation.
 
 Q6. Responsive design with Media Queries -
     1. Add a CSS Media Query and appropriate styles so that the web page looks similar even when resized to smaller widths.
         the sidebar should be hidden.
-        the body should have no padding.
-        images should not exceed the width of the window.
+        body should have no padding.
+        images should not exceed width of window.
         navigation items should be on their own line.
-        header should be fixed so that it is placed at the top after scrolling.
+        header should be fixes so that it is placed at the top after scrolling.
 
-Q7. Client Side Programming using JavaScript, use of control statements
+Q7. Client Side Programing using Java Script, use of control statements
     1. Write a JS Programme that displays the largest integer among 3 integers.
-    2. Write a JS Function that accepts a string as a parameter & converts the first letter of each word to upper case.
+    2. Write a JS Function that accepts a string as a parameter & convert first letter of each word to upper case.
     3. Write a JS to create a simple calculator.
-    4. Write a JS Program to find the longest word of a string entered by the user.
+    4. Write a JS Program to find longest word of a string entered by the user.
     5. Write a JS Program to find odd numbers and sum from 1 to 100.
     6. Write a JS Program to generate a random string.
     7. Write a JS Program to print prime numbers and their sum in a given interval.
@@ -40,18 +40,23 @@ Q7. Client Side Programming using JavaScript, use of control statements
 
 Q8. JS Event Handling and Functions
     1. Write a JS Program to generate a random number and display it in a textbox.
-    2. Write a JS Function that changes the background color of an element on a particular event. (ontouch, hover, onclick etc.)
-    3. Write a JS to validate the course registration form. (Try using Angular JS)
-    4. Write a JS Program that adds key-down event listeners to a text input to detect when the enter key is pressed.
+    2. Write a JS Function that changes background color of an element on a particular event. (ontouch, hover, onclick etc.)
+    3. Write a JS to validate course registeration form. (Try using Angular JS)
+    4. Write a JS Program that adds key down event listner to a text input to detect when the enter key is pressed.
     5. Write a JS Program to show the use of alert, prompt & confirm dialogue boxes.
-    6. Write a JS Function to extract a specified number of characters from a string.
-    7. Write a JS Function to accept the DOB for a user and calculate the difference till the current date.
+    6. Write a JS Function to extract specified number of characters from a string.
+    7. Write a JS Function to accept DOB for a user and calculate the difference till current date.
 
 Q9. Using Angular JS -> implement input validation
-    1. Write a Code to change the BG of the textbox based on the color mentioned by the user in the same textbox.
+    1. Write a Code to change BG of textbox based on the color mention by the user in the same textbox.
     2. Write a Code to create a cost calculator.
-    3. Write a Code to build a simple search filter Functionality to display a filtered list based on the Search Query entered by the user.
+    3. Write a Code to to build a simple search filtr Functionality to diaplay a filtered list based on Search Query entered by user.
     4. Use angular JS Tables to perform the following:
         a - Display table
         b - display table content with order by filter
         c - Display table with even and odd entries
+
+Q10. Node JS Basic Excercises
+    1. Create a simple Hello World server using Node JS.
+    2. Write a Node JS Program to replace 2 or more occourances of a letter with a single letter in a given string using regular expression. (abba -> aba)
+    3. Write a Node JS code to iterate over a given array. (Basically printing the elements of array)

@@ -77,6 +77,6 @@ const musicList = [
 
 ## Screenshots
 
-![Main Page](screenshots/mainpage.jpeg)
-![Arist Panel](screenshots/DR-songs.jpeg)
-![Spotify Player](screenshots/playing-song.jpg)
+![Main Page](MUSIC_STORE/screenshots/mainpage.jpeg)
+![Arist Panel](MUSIC_STORE/screenshots/DR-songs.jpeg)
+![Spotify Player](MUSIC_STORE/screenshots/playing-song.jpg)

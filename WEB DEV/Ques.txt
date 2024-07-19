@@ -13,7 +13,7 @@ Q4. HTML forms using different form elements
         Course (Dropdown)
         Submit (Button)
     3. Form for selecting sports in your university, form should have fields like name, password, address, select game, gender, Age.
-
+ 
 Q5. Use of inline internal and external style sheets, and incorporating styles in html document -
     1. Use inline style sheets and Create a webpage
     2. Create a css based sticky footer.

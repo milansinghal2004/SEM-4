@@ -3,7 +3,7 @@
 ## Frontend Project
 
 ### This folder contains all the projects made in the frontend category including languages like HTML, CSS, JS, Angular JS, Node JS etc.
-
+ 
 Tech Stack:
 - HTML
 - CSS
